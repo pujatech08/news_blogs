@@ -1,0 +1,29 @@
+category wise news 
+author wise news
+search news
+comments system
+Role wise
+
+// Required pages we need to install
+express
+ejs
+express-ejs-layouts
+express-session
+mongoose
+mongoose-paginate-v2 // this is for the paginate
+dotenv
+bcryptjs    
+jsonwebtoken
+connect-flash
+multer
+slugify  // this is for slug 
+nodemon 
+cookie-parser // for store cookie
+express-validator // for validate the express
+Tabulator we can used for show the data into the table format
+// npm init -y
+windsurf plugin(formerly codeium):AI coding Autocomplete and chat for 
+for use this we can first login in his website then we can used it
+
+
+
